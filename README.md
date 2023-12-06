@@ -1,11 +1,13 @@
 # data-mining-earthquake
 
-From the above chart, diagram and map, analysis diplays earthquakes, which are over 5, magitude almost happened at every months.
+The project analysis displays:
 
-With raising magnitude of earquakes, the number of earquakes become decreasing.
+1. Earthquakes that are over 5 magnitudes almost happen every month.
 
-With raising magnitude of earquakes, the depth of earquakes is increasing. However, the highest magitude of earquakes have small size depth.
+2. With the rising magnitude of earthquakes, the number of earthquakes is decreasing.
 
-There is no corrolation relationship between magintude and depth of earthquakes.
+3. With the rising magnitude of earthquakes, the depth of earthquakes is increasing. However, the most powerful earthquakes have a shallow depth.
 
-The over 5.5 magitude Earthquakes mostly occured plate boundaries, especially on the Pacific plate boundaies. Global warming is a reason for increased earthquake activities. Rising sea levels may change the balance of pressure on Earth's plates, thus causing an increase in the frequency and intensity of earthquakes.
+4. There is no correlation between the magnitude and depth of earthquakes.
+
+5. The over-5.5-magnitude earthquakes mostly occurred along plate boundaries, especially on the Pacific plate boundaries. Global warming is a reason for increased earthquake activity. Rising sea levels may change the balance of pressure on Earth's plates, thus causing an increase in the frequency and intensity of earthquakes.
