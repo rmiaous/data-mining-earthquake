@@ -1,7 +1,7 @@
-# data-mining-earthquake
+# Data Mining Earthquake
 The project analysis displays:
 
-1. Earthquakes that are over 5 magnitudes almost happen every month.
+1. Earthquakes that are over five magnitudes almost happen every month.
 
 2. With the rising magnitude of earthquakes, the number of earthquakes is decreasing.
 
@@ -9,4 +9,4 @@ The project analysis displays:
 
 4. There is no correlation between the magnitude and depth of earthquakes.
 
-5. The over-5.5-magnitude earthquakes mostly occurred along plate boundaries, especially on the Pacific plate boundaries. Global warming is a reason for increased earthquake activity. Rising sea levels may change the balance of pressure on Earth's plates, thus causing an increase in the frequency and intensity of earthquakes.
+5. The over-5.5-magnitude earthquakes mainly occurred along plate boundaries, especially on the Pacific plate boundaries. Global warming is a reason for increased earthquake activity. Rising sea levels may change the balance of pressure on Earth's plates, thus causing an increase in the frequency and intensity of earthquakes.
