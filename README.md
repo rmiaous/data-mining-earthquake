@@ -9,4 +9,5 @@ The project analysis displays:
 
 4. There is no correlation between the magnitude and depth of earthquakes.
 
-5. The over-5.5-magnitude earthquakes mainly occurred along plate boundaries, especially on the Pacific plate boundaries. Global warming is a reason for increased earthquake activity. Rising sea levels may change the balance of pressure on Earth's plates, thus causing an increase in the frequency and intensity of earthquakes.
+5. The over-5.5-magnitude earthquakes mainly occurred along plate boundaries, especially on the Pacific plate boundaries.
+6. Global warming is a reason for increased earthquake activity. Rising sea levels may change the balance of pressure on Earth's plates, thus causing an increase in the frequency and intensity of earthquakes.
