@@ -1,5 +1,5 @@
 # Data Mining Earthquake
-The project analysis displays:
+The analysis discovers:
 
 1. Earthquakes that are over five magnitudes almost happen every month.
 
