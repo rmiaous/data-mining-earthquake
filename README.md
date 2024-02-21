@@ -1,4 +1,4 @@
-# Data Mining Earthquake
+# Data Mining - Earthquake
 The analysis discovers:
 
 1. Earthquakes that are over five magnitudes almost happen every month.
