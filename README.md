@@ -2,7 +2,7 @@
 
 The analysis discovers global warming is a reason for increased earthquake activity. Rising sea levels may change the balance of pressure on Earth's plates, thus causing an increase in the frequency and intensity of earthquakes.
 
-Result:
+Resolution:
 
 1. Earthquakes that are over five magnitudes almost happen every month. With the rising magnitude of earthquakes, the number of earthquakes is decreasing. With the rising magnitude of earthquakes, the depth of earthquakes is increasing. However, the most powerful earthquakes have a shallow depth.
 
