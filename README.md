@@ -1,4 +1,4 @@
-# Data Mining - Earthquake
+# Data Mining - Earthquake Analysis
 
 The analysis discovers global warming is a reason for increased earthquake activity. Rising sea levels may change the balance of pressure on Earth's plates, thus causing an increase in the frequency and intensity of earthquakes.
 
